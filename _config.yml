@@ -7,13 +7,13 @@ baseurl: "/3d_vision_spring2025" # the subpath of your site, e.g. /blog/
 url: "http://alviur.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Autonomous University of Barcelona"
-schoolurl: "https://hogwarts.edu"
+schoolurl: "https://www.uab.cat/web/estudiar/ehea-degrees/study-plan/study-guides-1345467897127.html?param1=1345834483501"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Autonomous University of Barcelona
+    Spain
+    Bellaterra
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
