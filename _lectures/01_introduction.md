@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
+date: 2025-03-03T15:00:00+0100
+title: Course presentation and 3D representations - 1
+tldr: "Course presentation and RGB-D"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: /static_files/presentations/lec.zip
