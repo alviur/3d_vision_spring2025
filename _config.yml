@@ -7,8 +7,8 @@ baseurl: "/3d_vision_spring2025" # the subpath of your site, e.g. /blog/
 url: "http://alviur.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Autonomous University of Barcelona"
-schoolurl: "https://www.uab.cat/web/estudiar/ehea-degrees/study-plan/study-guides-1345467897127.html?param1=1345834483501"
-twitter_username: username 
+#schoolurl: "https://www.uab.cat/web/estudiar/ehea-degrees/study-plan/study-guides-1345467897127.html?param1=1345834483501"
+#twitter_username: username 
 
 address: |
     Autonomous University of Barcelona
