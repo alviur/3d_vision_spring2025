@@ -9,7 +9,7 @@ links:
       name: notes
     - url: /static_files/presentations/code.zip
       name: codes
-    - url: https://google.com
+    - url: [https://google.com](https://drive.google.com/file/d/1FMJH1udPCl56qR9poVp4SugJH9IFjGij/view?usp=share_link)
       name: slides
 ---
 **Suggested Readings:**
