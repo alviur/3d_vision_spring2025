@@ -9,7 +9,7 @@ links:
       name: data (cow.ply)
     - url: https://drive.google.com/file/d/1AN-PUyrGBD4uDq_IxAzW_8rOGlmb74Jr/view?usp=share_link
       name: codes (notebook)
-    - url: [https://google.com](https://drive.google.com/file/d/1FMJH1udPCl56qR9poVp4SugJH9IFjGij/view?usp=share_link)
+    - url: https://drive.google.com/file/d/1FMJH1udPCl56qR9poVp4SugJH9IFjGij/view?usp=share_link
       name: slides
 ---
 **Suggested Readings:**
