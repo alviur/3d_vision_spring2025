@@ -1,0 +1,17 @@
+---
+type: lecture
+date: 2025-03-03T15:00:00+0100
+title: 3D representations - lab
+tldr: "3D representations - lab"
+thumbnail: /static_files/presentations/lec.jpg
+links: 
+    - url: https://drive.google.com/file/d/1s8KuUxNwVeBaYXJYaCI6iKgfmsPMPOEd/view?usp=sharing
+      name: data (cow.ply)
+    - url: https://drive.google.com/file/d/1AN-PUyrGBD4uDq_IxAzW_8rOGlmb74Jr/view?usp=share_link
+      name: codes (notebook)
+    - url: [https://google.com](https://drive.google.com/file/d/1FMJH1udPCl56qR9poVp4SugJH9IFjGij/view?usp=share_link)
+      name: slides
+---
+**Suggested Readings:**
+- [Readings 1](http://example.com)
+- [Readings 2](http://example.com)
