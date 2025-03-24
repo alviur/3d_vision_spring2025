@@ -1,0 +1,17 @@
+---
+type: lecture
+date: 2025-03-03T15:00:00+0100
+title: Neural Implicit Representations - lab
+tldr: "Neural Implicit Representations - lab"
+thumbnail: /static_files/presentations/lec.jpg
+links: 
+    - url: https://drive.google.com
+      name: data 
+    - url: https://drive.google.com/file/d/1AE9mC6ItoDbFmXGmIYNKda_RhRg1ftrs/view?usp=share_link
+      name: codes (notebook)
+    - url: https://drive.google.com
+      name: slides
+---
+**Suggested Readings:**
+- [Readings 1](http://example.com)
+- [Readings 2](http://example.com)
