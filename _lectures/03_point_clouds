@@ -1,0 +1,10 @@
+---
+type: lecture
+date: 2025-03-03T15:00:00+0100
+title: Point clouds
+tldr: "PointNet"
+thumbnail: /static_files/presentations/lec.jpg
+links: 
+    - url: https://drive.google.com/file/d/1EwDGd_qYtGdno-A7RoqLwLqGSJtJC8EU/view?usp=sharing
+      name: Slides
+---
